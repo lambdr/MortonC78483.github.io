@@ -3,7 +3,7 @@ title: "Towards Community-Based Participatory Statistics Research [Submitted]"
 collection: publications
 category: manuscripts
 #permalink: /publication/2009-10-01-paper-title-number-1
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 year: 2024
 submitted: 'The American Statistician'
 #venue: 
