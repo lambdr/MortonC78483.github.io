@@ -1,5 +1,5 @@
 ---
-title: "Towards Community-Based Participatory Statistics Research"
+title: "Towards Community-Based Participatory Statistics Research [Submitted]"
 collection: publications
 category: manuscripts
 #permalink: /publication/2009-10-01-paper-title-number-1
