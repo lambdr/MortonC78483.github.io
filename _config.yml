@@ -12,7 +12,7 @@ title                    : "Claire Morton"
 title_separator          : "-"
 name                     : &name "Claire Morton"
 description              : &description "Personal Website"
-url                      : https://lambdr.github.io/mortonc78483.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lambdr.github.io/MortonC78483.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
