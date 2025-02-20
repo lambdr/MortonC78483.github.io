@@ -6,7 +6,7 @@ permalink: /publication/2023-03-01-temporal-trends/
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2023-03-01
 venue: 'GeoHealth'
-paperurl: /MortonC78483.github.io/files/GeoHealth - 2023 - González - Temporal Trends of Racial and Socioeconomic Disparities in Population Exposures to Upstream.pdf
+paperurl: /MortonC78483.github.io/files/geohealth_gonzalez_2023.pdf
 citation: 'González, D. J. X., Morton, C. M., Hill, L. A. L., Michanowicz, D. R., Rossi, R. J., Shonkoff, S. B. C., Casey, J. A., & Morello-Frosch, R. (2023). &quot;Temporal Trends of Racial and Socioeconomic Disparities in Population Exposures to Upstream Oil and Gas Development in California&quot;. <i>GeoHealth</i>, 7(3).'
 ---
 
