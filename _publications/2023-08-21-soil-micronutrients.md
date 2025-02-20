@@ -6,7 +6,7 @@ permalink: /publication/2023-08-21-soil-micronutrients/
 excerpt: 'Excerpt here.'
 date: 2023-08-21
 venue: 'Scientific Reports'
-paperurl: /MortonC78483.github.io/files/scientific_reports_morton_2023.pdf
+paperurl: /files/scientific_reports_morton_2023.pdf
 citation: 'Morton, C. M., Pullabhotla, H., Bevis, L., & Lobell, D. B. (2023). &quot;Soil micronutrients linked to human health in India&quot;. <i>Scientific reports</i>, 13(1), 13591.'
 ---
 

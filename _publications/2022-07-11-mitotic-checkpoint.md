@@ -6,7 +6,7 @@ permalink: /publication/2022-07-11-mitotic-checkpoint/
 excerpt: 'Excerpt here.'
 date: 2022-07-11
 venue: 'EMBO Journal'
-paperurl: /MortonC78483.github.io/files/embo_esposito_2022.pdf
+paperurl: /files/embo_esposito_2022.pdf
 citation: 'Esposito, E., Weidemann, D. E., Rogers, J. M., Morton, C. M., Baybay, E. K., Chen, J., & Hauf, S. (2022). &quot;Mitotic checkpoint gene expression is tuned by codon usage bias&quot;. <i>The EMBO journal</i>, 41(15), e107896.'
 ---
 
