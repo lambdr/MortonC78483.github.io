@@ -3,7 +3,7 @@ title: "Soil micronutrients linked to human health in India"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-08-21-soil-micronutrients/
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Excerpt here.'
 date: 2023-08-21
 venue: 'Scientific Reports'
 paperurl: /MortonC78483.github.io/files/scientific_reports_morton_2023.pdf

@@ -3,7 +3,7 @@ title: "Temporal trends of racial and socioeconomic disparities in population ex
 collection: publications
 category: manuscripts
 permalink: /publication/2023-03-01-temporal-trends/
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Excerpt here.'
 date: 2023-03-01
 venue: 'GeoHealth'
 paperurl: /MortonC78483.github.io/files/geohealth_gonzalez_2023.pdf
